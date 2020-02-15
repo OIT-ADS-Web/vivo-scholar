@@ -33,7 +33,7 @@
     "vue": "^2.6.7",
     "vue-router": "^3.0.2",
     "vue-template-compiler": "^2.6.7",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
